@@ -61,7 +61,7 @@ PRODUCT_PACKAGES += \
     Development \
     Eleven \
     LockClock \
-    OTACenter \
+    OpenDelta \
     Profiles \
     Trebuchet
 
