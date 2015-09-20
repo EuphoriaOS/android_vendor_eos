@@ -96,7 +96,15 @@ PRODUCT_PACKAGES += \
     Busybox
 
 PRODUCT_PACKAGES += \
-    procmem \
+	.installed_su_daemon \
+	99SuperSUDaemon \
+	SuperSU \
+	daemonsu \
+	install-recovery \
+	libsupol.so \
+	sugote \
+	supolicy \
+	procmem \
     procrank \
     su
 
